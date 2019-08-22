@@ -1,7 +1,7 @@
 {
-  "name": "fresh_boilerplate",
+  "name": "mines",
   "version": "1.0.0",
-  "description": "Fresh and minimalist webpack boilerplate",
+  "description": "little video game",
   "private": true,
   "scripts": {
     "start": "webpack-dev-server --config webpack.dev.js",
